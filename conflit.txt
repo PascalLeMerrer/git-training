@@ -5,7 +5,7 @@
 
     # début de la zone à modifier
 
-    insérez votre prénom :
+    insérez votre prénom : Pascal
 
     # fin de la zone à modifier
 
